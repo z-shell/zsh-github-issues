@@ -1,0 +1,9 @@
+# Which projects to monitor for the new issues
+: ${GIT_PROJECTS:="zdharma/zsh-github-issues:zdharma/zplugin"}
+export GIT_PROJECTS
+
+# The pause between the pulls
+: ${GIT_SLEEP_TIME:=300}
+export GIT_SLEEP_TIME
+
+# vim:ft=zsh
