@@ -1,4 +1,4 @@
-# zsh-github-issues
+# `ZSH-GITHUB-ISSUES`
 
 Subscribe to your projects of interest on Github and receive **within shell** (under
 prompt) notifications about new issues and pull requests.
