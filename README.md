@@ -28,7 +28,7 @@ zinit light z-shell/zsh-github-issues
 
 ## Pulling ices from the Zinit packages
 
-Recent Zplugin supports packages which hold the needed ices. To install the plugin from
+Recent Zinit supports packages which hold the needed ices. To install the plugin from
 them, issue:
 
 ```zsh
