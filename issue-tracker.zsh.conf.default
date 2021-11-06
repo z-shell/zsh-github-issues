@@ -1,5 +1,5 @@
 # Which projects to monitor for the new issues
-: ${GIT_PROJECTS:="zdharma/zsh-github-issues:zdharma/zplugin"}
+: ${GIT_PROJECTS:="z-shell/zsh-github-issues:z-shell/zinit"}
 export GIT_PROJECTS
 
 # The pause between the pulls
