@@ -5,7 +5,7 @@ prompt) notifications about new issues and pull requests.
 
 # Usage
 
-The tool currently needs Zsh and [zplugin](https://github.com/z-shell/zinit).
+The tool currently needs Zsh and [Zinit](https://github.com/z-shell/zinit).
 
 ## Manual ice-specifying
 
