@@ -3,7 +3,7 @@
 #
 # Use with plugin manager that supports single plugin load per all active Zsh
 # sessions. The p-m should set parameters ZSRV_WORK_DIR and ZSRV_ID. One such
-# p-m is zplugin (https://github.com/zdharma/zplugin).
+# p-m is zinit (https://github.com/z-shell/zinit).
 #
 
 0="${${ZERO:-${(M)0##/*}}:-${(%):-%N}}"  # try ZERO, filter absolute path from $0, fallback to %N
